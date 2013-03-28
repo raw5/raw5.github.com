@@ -8,9 +8,9 @@ $(document).ready(function(){
         pauseOnHover: false,
         preloadTheseFrames: [1],
         preloadTheseImages: [
-            "images/tn-model1.png",
-            "images/tn-model2.png",
-            "images/tn-model3.png"
+            "myImages/disney1.jpg",
+            "myImages/disney1.jpg",
+            "myImages/disney1.jpg"
         ]
     };
     
