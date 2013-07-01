@@ -22,6 +22,11 @@ jQuery(document).ready(function() {
               nav2clone.show();
           }
       });
+           if(this.hash == "#work"){
+            $("#work .single_image").first().trigger("click")
+          }else{
+            $(".btnClose").trigger("click")
+          }
     }
     });
 
