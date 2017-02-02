@@ -19,7 +19,7 @@ page.open("http://vipinnagpal.com/Novor%C3%A9sum%C3%A9%20_%20R%C3%A9sum%C3%A9%20
                 top:    bb.top,
                 left:   bb.left,
                 width:  1190,
-                height: 2036
+                height: 2073
             }
 
             page.render('capture.pdf');
